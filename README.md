@@ -1,3 +1,6 @@
+# Warning
+Nerd fonts moved some symbols with version 3.0, version 2.3 is meant for transition. Nvim-web-devicons will now work with only with version 2.3+
+
 # Nvim-web-devicons
 
 A `lua` fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons). This plugin provides the same icons _as well as_ colors for each icon.
